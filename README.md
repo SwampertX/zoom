@@ -1,6 +1,6 @@
-#Zoom
+# Zoom
 
-###a Firefox extension under development
+### Firefox extension under development
 
 Inspired by a 1080p laptop screen, Firefox Quantum that does not support default zoom like Google Chrome does, and [Prism-Break](prism-break.org).
 
