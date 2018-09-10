@@ -1,3 +1,10 @@
+document.body.style.transform = "scale(1.25)";
+document.body.style["-moz-transform-origin"] = "30% 0%";
+//document.body.style.zoom = "125%";
+
+console.log("Hello World!");
+console.log(document.body.style);
+
 function onError(error) {
   console.log(`Error: ${error}`);
 }
